@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @philterpaperr
 - 👀 I’m interested in everything lmao
-- 🌱 I’m currently learning c/c++ 
-- 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me .. email: philipeugene15@gmail.com
 
 <!---
