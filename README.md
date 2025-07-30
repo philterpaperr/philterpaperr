@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @philterpaperr
-- 👀 I’m interested in everything lmao
+- 👀 Yo! data
 - 📫 How to reach me .. email: philipeugene15@gmail.com
 
 <!---
